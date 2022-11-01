@@ -1,0 +1,18 @@
+/*
+No scroll bar
+*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#c {
+  position: absolute;
+  width: 98%;
+  height: 97%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius: 50px;
+}
